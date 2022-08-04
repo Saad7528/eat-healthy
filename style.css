@@ -82,8 +82,6 @@ body {
 
 .mid-halfl {
     width: 50%;
-    padding: 150px;
-
 }
 
 .mid-halfr {
@@ -93,9 +91,13 @@ body {
 }
 
 .mid-halfl img {
-    width: 50%;
-    vertical-align: bottom;
+    width: 491px;
+    height: 637px;
+    margin-left: 200px;
+    margin-top: 150px;
 }
+
+
 
 .trd-txt h1 {
     font-size: 70px;
