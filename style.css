@@ -4,7 +4,7 @@ body {
 }
 
 .orange {
-    color: orange;
+    color: rgb(239, 163, 22);
 }
 
 .gray {
@@ -151,8 +151,8 @@ body {
     box-shadow: 0px 0px 50px 0px rgb(212, 212, 212);
     margin-bottom: 150px;
     margin: 50px 150px;
-    border-radius: 20px;
-    padding: 20px;
+    border-radius: 25px;
+    padding: 40px;
 }
 
 .pre-last-div h1 {
@@ -166,6 +166,30 @@ body {
 .pre-con {
     width: 70%;
     text-align: justify;
+    margin-left: 164px;
 
 
+}
+
+.last {
+
+    height: 300px;
+    width: auto;
+    text-align: justify;
+    text-align: center;
+    margin-top: 150px;
+    background-color: black;
+    padding: 20px;
+
+}
+
+.last h1 {
+    font-size: 50px;
+    color: gray;
+    margin-bottom: 50px;
+}
+
+.last p {
+    font-size: 25px;
+    color: rgba(127, 214, 246, 0.718);
 }
