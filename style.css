@@ -66,7 +66,7 @@ body {
     background-image: url(images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
 
 
 }
@@ -89,9 +89,38 @@ body {
 .mid-halfr {
     width: 50%;
     padding: 50px;
-    margin: 60px 200px;
+    margin: 0px 200px;
 }
 
 .mid-halfl img {
     width: 50%;
+    vertical-align: bottom;
+}
+
+.trd-txt h1 {
+    font-size: 70px;
+    text-align: center;
+
+}
+
+.trd-txt p {
+    font-size: 30px;
+    text-align: center;
+}
+
+.trd-txt {
+    margin: 0px 500px;
+}
+
+.trd-sec {
+    display: flex;
+}
+
+.trd2-half {
+    width: 50%;
+}
+
+.trd2-half img {
+    height: 200px;
+    width: 200px;
 }
